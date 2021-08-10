@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\bin\Debug\netcoreapp3.1\FontSelector.exe
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\bin\Debug\netcoreapp3.1\FontSelector.deps.json
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\bin\Debug\netcoreapp3.1\FontSelector.runtimeconfig.json
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\bin\Debug\netcoreapp3.1\FontSelector.runtimeconfig.dev.json
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\bin\Debug\netcoreapp3.1\FontSelector.dll
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\bin\Debug\netcoreapp3.1\FontSelector.pdb
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\obj\Debug\netcoreapp3.1\FontSelector.csprojAssemblyReference.cache
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\obj\Debug\netcoreapp3.1\FontSelector.Form1.resources
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\obj\Debug\netcoreapp3.1\FontSelector.csproj.GenerateResource.cache
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\obj\Debug\netcoreapp3.1\FontSelector.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\obj\Debug\netcoreapp3.1\FontSelector.AssemblyInfo.cs
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\obj\Debug\netcoreapp3.1\FontSelector.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\obj\Debug\netcoreapp3.1\FontSelector.dll
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\obj\Debug\netcoreapp3.1\FontSelector.pdb
+C:\Users\1\source\repos\exercises\FontSelector\FontSelector\obj\Debug\netcoreapp3.1\FontSelector.genruntimeconfig.cache
