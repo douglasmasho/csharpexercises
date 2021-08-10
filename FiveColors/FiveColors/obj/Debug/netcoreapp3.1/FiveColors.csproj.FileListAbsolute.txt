@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\bin\Debug\netcoreapp3.1\FiveColors.exe
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\bin\Debug\netcoreapp3.1\FiveColors.deps.json
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\bin\Debug\netcoreapp3.1\FiveColors.runtimeconfig.json
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\bin\Debug\netcoreapp3.1\FiveColors.runtimeconfig.dev.json
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\bin\Debug\netcoreapp3.1\FiveColors.dll
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\bin\Debug\netcoreapp3.1\FiveColors.pdb
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\obj\Debug\netcoreapp3.1\FiveColors.csprojAssemblyReference.cache
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\obj\Debug\netcoreapp3.1\FiveColors.Form1.resources
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\obj\Debug\netcoreapp3.1\FiveColors.csproj.GenerateResource.cache
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\obj\Debug\netcoreapp3.1\FiveColors.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\obj\Debug\netcoreapp3.1\FiveColors.AssemblyInfo.cs
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\obj\Debug\netcoreapp3.1\FiveColors.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\obj\Debug\netcoreapp3.1\FiveColors.dll
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\obj\Debug\netcoreapp3.1\FiveColors.pdb
+C:\Users\1\source\repos\exercises\FiveColors\FiveColors\obj\Debug\netcoreapp3.1\FiveColors.genruntimeconfig.cache

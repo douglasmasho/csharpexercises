@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\obj\Debug\netcoreapp3.1\dayandnight.csprojAssemblyReference.cache
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\obj\Debug\netcoreapp3.1\dayandnight.Form1.resources
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\obj\Debug\netcoreapp3.1\dayandnight.Properties.Resources.resources
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\obj\Debug\netcoreapp3.1\dayandnight.csproj.GenerateResource.cache
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\obj\Debug\netcoreapp3.1\dayandnight.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\obj\Debug\netcoreapp3.1\dayandnight.AssemblyInfo.cs
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\obj\Debug\netcoreapp3.1\dayandnight.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\bin\Debug\netcoreapp3.1\dayandnight.exe
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\bin\Debug\netcoreapp3.1\dayandnight.deps.json
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\bin\Debug\netcoreapp3.1\dayandnight.runtimeconfig.json
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\bin\Debug\netcoreapp3.1\dayandnight.runtimeconfig.dev.json
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\bin\Debug\netcoreapp3.1\dayandnight.dll
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\bin\Debug\netcoreapp3.1\dayandnight.pdb
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\obj\Debug\netcoreapp3.1\dayandnight.dll
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\obj\Debug\netcoreapp3.1\dayandnight.pdb
+C:\Users\1\source\repos\exercises\dayandnight\dayandnight\obj\Debug\netcoreapp3.1\dayandnight.genruntimeconfig.cache
