@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\bin\Debug\netcoreapp3.1\BreezyViewApartments.exe
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\bin\Debug\netcoreapp3.1\BreezyViewApartments.deps.json
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\bin\Debug\netcoreapp3.1\BreezyViewApartments.runtimeconfig.json
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\bin\Debug\netcoreapp3.1\BreezyViewApartments.runtimeconfig.dev.json
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\bin\Debug\netcoreapp3.1\BreezyViewApartments.dll
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\bin\Debug\netcoreapp3.1\BreezyViewApartments.pdb
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\obj\Debug\netcoreapp3.1\BreezyViewApartments.csprojAssemblyReference.cache
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\obj\Debug\netcoreapp3.1\BreezyViewApartments.Form1.resources
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\obj\Debug\netcoreapp3.1\BreezyViewApartments.Properties.Resources.resources
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\obj\Debug\netcoreapp3.1\BreezyViewApartments.csproj.GenerateResource.cache
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\obj\Debug\netcoreapp3.1\BreezyViewApartments.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\obj\Debug\netcoreapp3.1\BreezyViewApartments.AssemblyInfo.cs
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\obj\Debug\netcoreapp3.1\BreezyViewApartments.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\obj\Debug\netcoreapp3.1\BreezyViewApartments.dll
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\obj\Debug\netcoreapp3.1\BreezyViewApartments.pdb
+C:\Users\1\source\repos\exercises\BreezyViewApartments\BreezyViewApartments\obj\Debug\netcoreapp3.1\BreezyViewApartments.genruntimeconfig.cache
