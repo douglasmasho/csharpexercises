@@ -1,0 +1,13 @@
+C:\Users\1\source\repos\exercises\IntegerFacts\IntegerFacts\bin\Debug\netcoreapp3.1\IntegerFacts.exe
+C:\Users\1\source\repos\exercises\IntegerFacts\IntegerFacts\bin\Debug\netcoreapp3.1\IntegerFacts.deps.json
+C:\Users\1\source\repos\exercises\IntegerFacts\IntegerFacts\bin\Debug\netcoreapp3.1\IntegerFacts.runtimeconfig.json
+C:\Users\1\source\repos\exercises\IntegerFacts\IntegerFacts\bin\Debug\netcoreapp3.1\IntegerFacts.runtimeconfig.dev.json
+C:\Users\1\source\repos\exercises\IntegerFacts\IntegerFacts\bin\Debug\netcoreapp3.1\IntegerFacts.dll
+C:\Users\1\source\repos\exercises\IntegerFacts\IntegerFacts\bin\Debug\netcoreapp3.1\IntegerFacts.pdb
+C:\Users\1\source\repos\exercises\IntegerFacts\IntegerFacts\obj\Debug\netcoreapp3.1\IntegerFacts.csprojAssemblyReference.cache
+C:\Users\1\source\repos\exercises\IntegerFacts\IntegerFacts\obj\Debug\netcoreapp3.1\IntegerFacts.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\exercises\IntegerFacts\IntegerFacts\obj\Debug\netcoreapp3.1\IntegerFacts.AssemblyInfo.cs
+C:\Users\1\source\repos\exercises\IntegerFacts\IntegerFacts\obj\Debug\netcoreapp3.1\IntegerFacts.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\exercises\IntegerFacts\IntegerFacts\obj\Debug\netcoreapp3.1\IntegerFacts.dll
+C:\Users\1\source\repos\exercises\IntegerFacts\IntegerFacts\obj\Debug\netcoreapp3.1\IntegerFacts.pdb
+C:\Users\1\source\repos\exercises\IntegerFacts\IntegerFacts\obj\Debug\netcoreapp3.1\IntegerFacts.genruntimeconfig.cache
