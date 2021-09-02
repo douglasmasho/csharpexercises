@@ -1,0 +1,13 @@
+C:\Users\1\source\repos\TestClassifiedAd\TestClassifiedAd\bin\Debug\netcoreapp3.1\TestClassifiedAd.exe
+C:\Users\1\source\repos\TestClassifiedAd\TestClassifiedAd\bin\Debug\netcoreapp3.1\TestClassifiedAd.deps.json
+C:\Users\1\source\repos\TestClassifiedAd\TestClassifiedAd\bin\Debug\netcoreapp3.1\TestClassifiedAd.runtimeconfig.json
+C:\Users\1\source\repos\TestClassifiedAd\TestClassifiedAd\bin\Debug\netcoreapp3.1\TestClassifiedAd.runtimeconfig.dev.json
+C:\Users\1\source\repos\TestClassifiedAd\TestClassifiedAd\bin\Debug\netcoreapp3.1\TestClassifiedAd.dll
+C:\Users\1\source\repos\TestClassifiedAd\TestClassifiedAd\bin\Debug\netcoreapp3.1\TestClassifiedAd.pdb
+C:\Users\1\source\repos\TestClassifiedAd\TestClassifiedAd\obj\Debug\netcoreapp3.1\TestClassifiedAd.csprojAssemblyReference.cache
+C:\Users\1\source\repos\TestClassifiedAd\TestClassifiedAd\obj\Debug\netcoreapp3.1\TestClassifiedAd.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\TestClassifiedAd\TestClassifiedAd\obj\Debug\netcoreapp3.1\TestClassifiedAd.AssemblyInfo.cs
+C:\Users\1\source\repos\TestClassifiedAd\TestClassifiedAd\obj\Debug\netcoreapp3.1\TestClassifiedAd.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\TestClassifiedAd\TestClassifiedAd\obj\Debug\netcoreapp3.1\TestClassifiedAd.dll
+C:\Users\1\source\repos\TestClassifiedAd\TestClassifiedAd\obj\Debug\netcoreapp3.1\TestClassifiedAd.pdb
+C:\Users\1\source\repos\TestClassifiedAd\TestClassifiedAd\obj\Debug\netcoreapp3.1\TestClassifiedAd.genruntimeconfig.cache

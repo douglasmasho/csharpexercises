@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\exercises\sports club\sports club\bin\Debug\netcoreapp3.1\sports club.exe
+C:\Users\1\source\repos\exercises\sports club\sports club\bin\Debug\netcoreapp3.1\sports club.deps.json
+C:\Users\1\source\repos\exercises\sports club\sports club\bin\Debug\netcoreapp3.1\sports club.runtimeconfig.json
+C:\Users\1\source\repos\exercises\sports club\sports club\bin\Debug\netcoreapp3.1\sports club.runtimeconfig.dev.json
+C:\Users\1\source\repos\exercises\sports club\sports club\bin\Debug\netcoreapp3.1\sports club.dll
+C:\Users\1\source\repos\exercises\sports club\sports club\bin\Debug\netcoreapp3.1\sports club.pdb
+C:\Users\1\source\repos\exercises\sports club\sports club\obj\Debug\netcoreapp3.1\sports club.csprojAssemblyReference.cache
+C:\Users\1\source\repos\exercises\sports club\sports club\obj\Debug\netcoreapp3.1\sports_club.Form1.resources
+C:\Users\1\source\repos\exercises\sports club\sports club\obj\Debug\netcoreapp3.1\sports_club.Properties.Resources.resources
+C:\Users\1\source\repos\exercises\sports club\sports club\obj\Debug\netcoreapp3.1\sports club.csproj.GenerateResource.cache
+C:\Users\1\source\repos\exercises\sports club\sports club\obj\Debug\netcoreapp3.1\sports club.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\exercises\sports club\sports club\obj\Debug\netcoreapp3.1\sports club.AssemblyInfo.cs
+C:\Users\1\source\repos\exercises\sports club\sports club\obj\Debug\netcoreapp3.1\sports club.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\exercises\sports club\sports club\obj\Debug\netcoreapp3.1\sports club.dll
+C:\Users\1\source\repos\exercises\sports club\sports club\obj\Debug\netcoreapp3.1\sports club.pdb
+C:\Users\1\source\repos\exercises\sports club\sports club\obj\Debug\netcoreapp3.1\sports club.genruntimeconfig.cache
